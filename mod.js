@@ -40,7 +40,7 @@ function handleRequest(request) {
       align="center"
       style="font-family: Avenir, Helvetica, Arial, sans-serif; font-size: 1.5rem;"
     >
-      <h1>Hello! I'm Sonoko Mizuki.</h1>
+      <h1>I'm Mizuki Sonoko. Deno Deploy deno deploy desu!</h1>
       <p>
         <a href="/html">/html</a>
       </p>
